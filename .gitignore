@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+venv
+docker_rsa*
+write_file
+.settings/*
